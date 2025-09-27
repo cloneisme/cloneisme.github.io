@@ -18,43 +18,37 @@
       "name": "D2E: Scaling Vision-Action Pretraining on Desktop Data for Transfer to Embodied AI",
       "publisher": "Under Review",
       "releaseDate": "Coming Soon",
-      "url": "",
-      "summary": "4th Author"
+      "url": "https://worv-ai.github.io/d2e/"
     },
     {
       "name": "MIP-Bench: Can LLMs Implicitly Personalize Answers for Different Users by Implicitly Leveraging Long-Term Memory?",
       "publisher": "Under Review",
       "releaseDate": "Coming Soon",
-      "url": "",
-      "summary": "Co-first Author"
+      "url": ""
     },
     {
       "name": "PPMI: Privacy-Preserving LLM Interaction with Socratic Chain-of-Thought Reasoning and Homomorphically Encrypted Vector Databases",
       "publisher": "Under Review, Crypto 2025 Workshop",
       "releaseDate": "2025-06-19",
-      "url": "https://arxiv.org/abs/2506.17336",
-      "summary": "Co-first Author"
+      "url": "https://arxiv.org/abs/2506.17336"
     },
     {
       "name": "CANVAS: Commonsense-Aware Navigation System for Intuitive Human-Robot Interaction",
       "publisher": "ICRA 2025, NeurIPS 2024 Workshop (Outstanding Paper Award)",
       "releaseDate": "2024-10-02",
-      "url": "https://arxiv.org/abs/2410.01273",
-      "summary": "Co-first Author"
+      "url": "https://arxiv.org/abs/2410.01273"
     },
     {
       "name": "ESREAL: Exploiting Semantic Reconstruction to Mitigate Hallucinations in Vision-Language Models",
       "publisher": "ECCV 2024",
       "releaseDate": "2024-03-24",
-      "url": "https://arxiv.org/abs/2403.16167",
-      "summary": "Co-first Author"
+      "url": "https://arxiv.org/abs/2403.16167"
     },
     {
       "name": "CUPID: A Real-Time Session-Based Reciprocal Recommendation System for a One-on-One Social Discovery Platform",
       "publisher": "ICDM 2024 Workshop",
       "releaseDate": "2024-10-08",
-      "url": "https://arxiv.org/abs/2410.18087",
-      "summary": "Co-first Author"
+      "url": "https://arxiv.org/abs/2410.18087"
     }
   ],
   "work": [
