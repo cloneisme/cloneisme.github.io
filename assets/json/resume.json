@@ -15,16 +15,16 @@
   ],
   "publications": [
     {
-      "name": "D2E: Scaling Vision-Action Pretraining on Desktop Data for Transfer to Embodied AI",
-      "publisher": "Under Review",
-      "releaseDate": "Coming Soon",
-      "url": "https://worv-ai.github.io/d2e/"
-    },
-    {
       "name": "MIP-Bench: Can LLMs Implicitly Personalize Answers for Different Users by Implicitly Leveraging Long-Term Memory?",
       "publisher": "Under Review",
       "releaseDate": "Coming Soon",
       "url": ""
+    },
+    {
+      "name": "D2E: Scaling Vision-Action Pretraining on Desktop Data for Transfer to Embodied AI",
+      "publisher": "Under Review",
+      "releaseDate": "2025-10-07",
+      "url": "https://arxiv.org/abs/2510.05684"
     },
     {
       "name": "PPMI: Privacy-Preserving LLM Interaction with Socratic Chain-of-Thought Reasoning and Homomorphically Encrypted Vector Databases",
