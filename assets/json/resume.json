@@ -15,16 +15,16 @@
   ],
   "publications": [
     {
-      "name": "CostNav: A Navigation Benchmark for Cost-Aware Evaluation of Embodied Agents",
+      "name": "MIP-Bench: Can LLMs Implicitly Personalize Answers for Different Users by Implicitly Leveraging Long-Term Memory?",
       "publisher": "Under Review",
       "releaseDate": "Coming Soon",
       "url": ""
     },
     {
-      "name": "MIP-Bench: Can LLMs Implicitly Personalize Answers for Different Users by Implicitly Leveraging Long-Term Memory?",
+      "name": "CostNav: A Navigation Benchmark for Cost-Aware Evaluation of Embodied Agents",
       "publisher": "Under Review",
-      "releaseDate": "Coming Soon",
-      "url": ""
+      "releaseDate": "2025-11-25",
+      "url": "https://arxiv.org/abs/2511.20216"
     },
     {
       "name": "D2E: Scaling Vision-Action Pretraining on Desktop Data for Transfer to Embodied AI",
