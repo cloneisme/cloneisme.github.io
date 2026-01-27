@@ -15,12 +15,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi there, I'm **Minchan** 👋
+I am an undergraduate student in Computer Science at [Seoul National University](https://en.snu.ac.kr/). I am currently working in [SNU Vision & Learning Lab](https://vision.snu.ac.kr/), advised by [Prof. Gunhee Kim](https://vision.snu.ac.kr/gunhee/). I have also had the opportunity to collaborate on research with [Prof. Yejin Choi](https://yejinc.github.io/) at [Stanford](https://www.stanford.edu/) and [Prof. Niloofar Mireshghallah](https://mireshghallah.github.io/) at [CMU](https://www.cmu.edu/).
 
-I'm an undergraduate at [Seoul National University](https://en.snu.ac.kr/), majoring in Computer Science. I'm currently working in [SNU Vision & Learning Lab](https://vision.snu.ac.kr/), advised by [Prof. Gunhee Kim](https://vision.snu.ac.kr/gunhee/). I’ve also had the opportunity to collaborate on research projects with [Prof. Yejin Choi](https://yejinc.github.io/) at [Stanford](https://www.stanford.edu/) and [Prof. Niloofar Mireshghallah](https://mireshghallah.github.io/), [Prof. Akari Asai](https://akariasai.github.io/), and [Prof. Graham Neubig](https://www.phontron.com/) at [CMU](https://www.cmu.edu/).
-
-My research focus lies in the intersection of machine learning, databases, and cryptography: **machine learning** (privacy-preserving machine learning, long-term memory systems, generalist imitation agents), **databases** (vector databases, approximate nearest neighbor, multimodal data compression), **cryptography** (homomorphic encryption, multi-party computation, private information retrieval)
-
-My vision is to develop a **multimodal memory system** inspired by the human hippocampus—one that continuously collects, stores, and utilizes an individual’s lifetime of action data. Through this work, I aim to create a **generalist imitation agent** that shares your memories and acts on your intent. To achieve this, the system must (i) seamlessly capture everything you see and hear, (ii) securely store your memories, and (iii) think, speak, and act like you.
-
-If you share these interests or would like to explore potential collaborations, please feel free to reach out!
+My research centers on advancing **machine learning systems for personal intelligence** with a strong emphasis on **security and privacy**. Concretely, my research interests include (1) recording individuals’ everyday lives as permanent data, (2) developing long-term memory systems for these multimodal records, (3) training imitation agents to learn their own cognitive and behavioral dynamics, and (4) ensuring security and privacy in both memory systems and agent training. My mission is to help individuals archive their unique life trajectories and create AI clones that can act on their behalf, enabling people to exist beyond the limits of space and time.
