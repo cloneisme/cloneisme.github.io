@@ -59,11 +59,18 @@
   ],
   "work": [
     {
+      "name": "Founder & CEO",
+      "position": "Clone",
+      "url": "https://clone.is/",
+      "startDate": "2026-02",
+      "endDate": "Current"
+    },
+    {
       "name": "Senior Machine Learning Researcher",
       "position": "Maum AI",
       "url": "https://maum.ai",
       "startDate": "2024-07",
-      "endDate": "Current"
+      "endDate": "2026-02"
     },
     {
       "name": "Machine Learning Engineer",
