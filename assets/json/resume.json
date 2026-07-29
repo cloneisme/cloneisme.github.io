@@ -15,10 +15,10 @@
   ],
   "publications": [
     {
-      "name": "MIP-Bench: Can LLMs Implicitly Personalize Answers for Different Users by Implicitly Leveraging Long-Term Memory?",
-      "publisher": "Under Review",
-      "releaseDate": "Coming Soon",
-      "url": ""
+      "name": "PPMI: Privacy-Preserving LLM Interaction with Socratic Chain-of-Thought Reasoning and Homomorphically Encrypted Vector Databases",
+      "publisher": "Under Review, Crypto 2025 Workshop",
+      "releaseDate": "2025-06-19",
+      "url": "https://arxiv.org/abs/2506.17336"
     },
     {
       "name": "CostNav: A Navigation Benchmark for Cost-Aware Evaluation of Embodied Agents",
@@ -31,12 +31,6 @@
       "publisher": "ICLR 2026",
       "releaseDate": "2025-10-07",
       "url": "https://arxiv.org/abs/2510.05684"
-    },
-    {
-      "name": "PPMI: Privacy-Preserving LLM Interaction with Socratic Chain-of-Thought Reasoning and Homomorphically Encrypted Vector Databases",
-      "publisher": "Under Review, Crypto 2025 Workshop",
-      "releaseDate": "2025-06-19",
-      "url": "https://arxiv.org/abs/2506.17336"
     },
     {
       "name": "CANVAS: Commonsense-Aware Navigation System for Intuitive Human-Robot Interaction",
