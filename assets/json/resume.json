@@ -8,7 +8,6 @@
       "url": "https://en.snu.ac.kr/",
       "area1": "B.S. in Computer Science and Engineering",
       "area2": "Double Major in Business Administration",
-      "area3": "Minor in Mathematical Sciences",
       "studyType": "Seoul National University",
       "endDate": "Aug 2026"
     }
@@ -16,13 +15,13 @@
   "publications": [
     {
       "name": "PPMI: Privacy-Preserving LLM Interaction with Socratic Chain-of-Thought Reasoning and Homomorphically Encrypted Vector Databases",
-      "publisher": "Under Review, Crypto 2025 Workshop",
+      "publisher": "Crypto 2025 Workshop",
       "releaseDate": "2025-06-19",
       "url": "https://arxiv.org/abs/2506.17336"
     },
     {
       "name": "CostNav: A Navigation Benchmark for Cost-Aware Evaluation of Embodied Agents",
-      "publisher": "Under Review",
+      "publisher": "CVPR 2026 Workshop",
       "releaseDate": "2025-11-25",
       "url": "https://arxiv.org/abs/2511.20216"
     },
@@ -53,10 +52,10 @@
   ],
   "work": [
     {
-      "name": "Founder & CEO",
+      "name": "Cofounder & CEO",
       "position": "Clone",
       "url": "https://clone.is/",
-      "startDate": "2026-02",
+      "startDate": "2026-01",
       "endDate": "Current"
     },
     {
